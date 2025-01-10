@@ -12,5 +12,7 @@ git checkout develop
 git add .
 git commit -m "Add new function to improve functionality"
 git push origin develop
+```
 
-##Visualization
+## Visualization
+![Hosted Image](https://github.com/Saicharan2241/Data-Science-Project/blob/main/bokeh_plot.png)
